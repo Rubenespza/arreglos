@@ -1,0 +1,49 @@
+E:\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.exe
+E:\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.pdb
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csprojAssemblyReference.cache
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxCapturar.resources
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Form1.resources
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Properties.Resources.resources
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csproj.GenerateResource.cache
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csproj.CoreCompileInputs.cache
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.exe
+E:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.pdb
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.exe
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.pdb
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.exe
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.pdb
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxCapturar.resources
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Form1.resources
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Properties.Resources.resources
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csproj.GenerateResource.Cache
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csprojResolveAssemblyReference.cache
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxBuscarNombre.resources
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxPrecioProducto.resources
+C:\Users\jimenezmaltos123\Documents\Visual Studio 2010\Projects\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxExistenciaProducto.resources
+F:\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.exe
+F:\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.pdb
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csprojAssemblyReference.cache
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxBuscarNombre.resources
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxCapturar.resources
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxExistenciaProducto.resources
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxPrecioProducto.resources
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Form1.resources
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Properties.Resources.resources
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csproj.GenerateResource.cache
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csproj.CoreCompileInputs.cache
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.exe
+F:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.pdb
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.exe
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.pdb
+D:\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.exe
+D:\ArregloRegistro\ArregloRegistro\bin\Debug\ArregloRegistro.pdb
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csprojResolveAssemblyReference.cache
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxBuscarNombre.resources
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxCapturar.resources
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxExistenciaProducto.resources
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.DialogBoxPrecioProducto.resources
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Form1.resources
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.Properties.Resources.resources
+D:\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.csproj.GenerateResource.Cache
+C:\Users\jimenezmaltos123\Documents\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.exe
+C:\Users\jimenezmaltos123\Documents\ArregloRegistro\ArregloRegistro\obj\x86\Debug\ArregloRegistro.pdb
